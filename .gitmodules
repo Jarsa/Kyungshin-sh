@@ -11,3 +11,8 @@
 	path = mexico
 	url = git@git.vauxoo.com:jarsa/mexico.git
 	branch = 14.0
+
+[submodule "web"]
+	path = web
+	url = git@github.com:Jarsa/web.git
+	branch = 14.0
