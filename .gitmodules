@@ -20,3 +20,8 @@
 	path = odoo-utilities
 	url = git@git.vauxoo.com:jarsa/odoo-utilities.git
 	branch = 14.0
+
+[submodule "operating-unit"]
+	path = operating-unit
+	url = git@github.com:jarsa/operating-unit.git
+	branch = 14.0
