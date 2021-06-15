@@ -25,3 +25,8 @@
 	path = operating-unit
 	url = git@github.com:jarsa/operating-unit.git
 	branch = 14.0
+
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:jarsa/partner-contact.git
+	branch = 14.0
