@@ -30,3 +30,6 @@
 	path = partner-contact
 	url = git@github.com:jarsa/partner-contact.git
 	branch = 14.0
+[submodule "kyungshin"]
+	path = kyungshin
+	url = git@git.vauxoo.com:jarsa/kyungshin.git
