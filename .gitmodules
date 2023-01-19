@@ -37,3 +37,8 @@
 	path = purchase-workflow
 	url = git@github.com:jarsa/purchase-workflow.git
 	branch = 14.0
+
+[submodule "odoo-cloc"]
+	path = odoo-cloc
+	url = git@github.com:Jarsa/odoo-cloc.git
+	branch = 14.0
