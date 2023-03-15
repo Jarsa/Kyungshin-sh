@@ -28,7 +28,7 @@
 [submodule "kyungshin"]
 	path = kyungshin
 	url = git@git.jarsa.com:Jarsa/kyungshin.git
-
+	branch = 14.0
 [submodule "server-backend"]
 	path = server-backend
 	url = git@github.com:Jarsa/server-backend.git
