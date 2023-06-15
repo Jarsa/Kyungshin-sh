@@ -11,11 +11,6 @@
 	path = web
 	url = git@github.com:Jarsa/web.git
 	branch = 14.0
-[submodule "odoo-utilities"]
-	path = odoo-utilities
-	url = git@git.vauxoo.com:jarsa/odoo-utilities.git
-	branch = 14.0
-
 [submodule "operating-unit"]
 	path = operating-unit
 	url = git@github.com:jarsa/operating-unit.git
@@ -41,4 +36,8 @@
 [submodule "odoo-cloc"]
 	path = odoo-cloc
 	url = git@github.com:Jarsa/odoo-cloc.git
+	branch = 14.0
+[submodule "odoo-utilities"]
+	path = odoo-utilities
+	url = git@git.jarsa.com:Jarsa/odoo-utilities.git
 	branch = 14.0
