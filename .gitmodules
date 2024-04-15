@@ -42,3 +42,8 @@
 	path = odoo-cloc
 	url = git@github.com:Jarsa/odoo-cloc.git
 	branch = 14.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
